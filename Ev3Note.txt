@@ -1,0 +1,20 @@
+There are 2 ways for write programs on the EV3 Mindstorm robot:
+
+1. Using default firmware of EV3 (Brick) 
+and Mindstorm software to write program for the robot (using Scratch programming)
+
+2. Install ev3dev on th EV3 (Brick) (run on SDCard)
+then write a program using C or python language
+- using ev3dev-c library or ev3dev python library 
+
+Recommend the second way
+
+You can choose 2 options:
+
+2.1 Programming with ev3dev python
+https://education.lego.com/en-us/support/mindstorms-ev3/python-for-ev3
+
+or
+2.2 Programming with ev3dev c
+https://www.ev3dev.org/docs/programming-languages/
+https://github.com/in4lio/ev3dev-c
